@@ -1,3 +1,5 @@
+package com.atomicprogramming.JChapter5;
+
 import java.util.Scanner;
 
 public class Task2 {
